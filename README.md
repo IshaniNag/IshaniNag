@@ -1,4 +1,4 @@
-<h1 align = "center">Hi, I'm Ishani</h1>
+![Header](./github-header-banner.png)
 
 <p align = "center">💻 Computer Science student at SRM University<br/>
 🌱 Currently learning: Full Stack Development & Machine Learning<br/>
