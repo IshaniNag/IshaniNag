@@ -2,29 +2,12 @@
 
 <h2 align="center">✨ About Me ✨</h2>
 
-<p align="center" style="font-size: 18px;">
-  <span style="font-size: 20px; font-weight: bold; color: #4CAF50;">
-    💻 Computer Science student at SRM University
-  </span>
-  <br/><br/>
-  
-  🌱 <span style="color: #FF9800;"><b>Currently learning:</b></span> Full Stack Development & Machine Learning <br/>
-  🚀 <span style="color: #2196F3;"><b>Exploring:</b></span> Cloud Computing | Blockchain | UI/UX Design <br/>
-  📊 <span style="color: #9C27B0;"><b>Interests:</b></span> Data Science | NLP | Deep Learning <br/><br/>
-  
-  💡 <a href="www.linkedin.com/in/ishani-nag-13563423a" style="color: #FF5722; text-decoration: none;">
-    Know more about me →
-  </a> <br/>
-  
-  📫 <span style="color: #795548;">Reach me at:</span> 
-  <a href="mailto:ishaninag19@mail.com" style="color: #0000EE;">ishaninag19@gmail.com</a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Full%20Stack-Development-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Machine-Learning-orange?style=for-the-badge" />
-</p>
-
+<h3 align = "center">💻 Computer Science student at SRM University</h3><br/>
+<h4 align = "center">🌱 Currently learning: Full Stack Development & Machine Learning</h4><br/>
+<h4 align = "center">🚀 Exploring: Cloud Computing | Blockchain | UI/UX Design</h4><br/>
+<h4 align = "center">📊 Interests: Data Science | Natural Language Processing | Deep Learning</h4><br/>
+<h4 align = "center">💡 Know more about me → www.linkedin.com/in/ishani-nag-13563423a<br/></h4>
+<h4 align = "center">📫 Reach me at: ishaninag19@gmail.com</h4>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ishani-nag-13563423a) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/25770232) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ishaninag19@gmail.com) 
