@@ -2,12 +2,14 @@
 
 <h2 align="center">✨ About Me ✨</h2>
 
-<h3 align = "center">💻 Computer Science student at SRM University</h3><br/>
-<h4 align = "center">🌱 Currently learning: Full Stack Development & Machine Learning</h4><br/>
-<h4 align = "center">🚀 Exploring: Cloud Computing | Blockchain | UI/UX Design</h4><br/>
-<h4 align = "center">📊 Interests: Data Science | Natural Language Processing | Deep Learning</h4><br/>
-<h4 align = "center">💡 Know more about me → www.linkedin.com/in/ishani-nag-13563423a<br/></h4>
-<h4 align = "center">📫 Reach me at: ishaninag19@gmail.com</h4>
+<p align="center">
+  <span style="font-size: 22px; font-weight: bold;">💻 Computer Science student at SRM University</span><br/>
+  🌱 <strong>Currently learning:</strong> Full Stack Development & Machine Learning<br/>
+  🚀 <strong>Exploring:</strong> Cloud Computing | Blockchain | UI/UX Design<br/>
+  📊 <strong>Interests:</strong> Data Science | Natural Language Processing | Deep Learning<br/>
+  💡 <a href="www.linkedin.com/in/ishani-nag-13563423a">Know more about me → www.linkedin.com/in/ishani-nag-13563423a</a><br/>
+  📫 Reach me at: <a href="mailto:ishaninag19@gmail.com">ishaninag19@gmail.com</a>
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ishani-nag-13563423a) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/25770232) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ishaninag19@gmail.com) 
