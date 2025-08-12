@@ -1,11 +1,29 @@
 ![Header](./github-header-banner.png)
 
-<p align = "center">💻 Computer Science student at SRM University<br/>
-🌱 Currently learning: Full Stack Development & Machine Learning<br/>
-🚀 Exploring: Cloud Computing | Blockchain | UI/UX Design<br/>
-📊 Interests: Data Science | Natural Language Processing | Deep Learning<br/>
-💡 Know more about me → www.linkedin.com/in/ishani-nag-13563423a<br/>
-📫 Reach me at: ishaninag19@gmail.com</p>
+<h2 align="center">✨ About Me ✨</h2>
+
+<p align="center" style="font-size: 18px;">
+  <span style="font-size: 20px; font-weight: bold; color: #4CAF50;">
+    💻 Computer Science student at SRM University
+  </span>
+  <br/><br/>
+  
+  🌱 <span style="color: #FF9800;"><b>Currently learning:</b></span> Full Stack Development & Machine Learning <br/>
+  🚀 <span style="color: #2196F3;"><b>Exploring:</b></span> Cloud Computing | Blockchain | UI/UX Design <br/>
+  📊 <span style="color: #9C27B0;"><b>Interests:</b></span> Data Science | NLP | Deep Learning <br/><br/>
+  
+  💡 <a href="www.linkedin.com/in/ishani-nag-13563423a" style="color: #FF5722; text-decoration: none;">
+    Know more about me →
+  </a> <br/>
+  
+  📫 <span style="color: #795548;">Reach me at:</span> 
+  <a href="mailto:ishaninag19@mail.com" style="color: #0000EE;">ishaninag19@gmail.com</a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Full%20Stack-Development-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine-Learning-orange?style=for-the-badge" />
+</p>
 
 
 ## 🌐 Socials:
