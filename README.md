@@ -3,12 +3,12 @@
 <h2 align="center">✨ About Me ✨</h2>
 
 <p align="center">
-  <span style="font-size: 22px; font-weight: bold;">💻 Computer Science student at SRM University</span><br/>
-  🌱 <strong>Currently learning:</strong> Full Stack Development & Machine Learning<br/>
-  🚀 <strong>Exploring:</strong> Cloud Computing | Blockchain | UI/UX Design<br/>
-  📊 <strong>Interests:</strong> Data Science | Natural Language Processing | Deep Learning<br/>
-  💡 Know more about me → <a href="www.linkedin.com/in/ishani-nag-13563423a">www.linkedin.com/in/ishani-nag-13563423a</a><br/>
-  📫 Reach me at: <a href="mailto:ishaninag19@gmail.com">ishaninag19@gmail.com</a>
+  <span style="font-size: 22px; font-weight: bold;">💻 Computer Science student at SRM University 💻</span><br/>
+  🌱 <strong>Currently learning:</strong> Full Stack Development & Machine Learning 🌱<br/>
+  🚀 <strong>Exploring:</strong> Cloud Computing | Blockchain | UI/UX Design 🚀<br/>
+  📊 <strong>Interests:</strong> Data Science | Natural Language Processing | Deep Learning 📊<br/>
+  💡 Know more about me → <a href="www.linkedin.com/in/ishani-nag-13563423a">www.linkedin.com/in/ishani-nag-13563423a</a> 💡<br/>
+  📫 Reach me at: <a href="mailto:ishaninag19@gmail.com">ishaninag19@gmail.com</a> 📫
 </p>
 
 ## 🌐 Socials:
