@@ -1,6 +1,6 @@
 ![Header](./github-header-banner.png)
 
-<h2 align="center">✨ A little about me ✨</h2>
+<h2 align="center">✨ About me ✨</h2>
 
 <p align="center">
   <span style="font-size: 22px; font-weight: bold;">💻 Computer Science student at SRM University 💻</span><br/>
