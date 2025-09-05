@@ -3,6 +3,7 @@
 <h2 align="center">✨ About me ✨</h2>
 
 <p align="center">
+  <span style="font-size: 22px; font-weight: bold;">💻 Computer Science student at SRM University 💻</span><br/>
   🌱 <strong>Currently working on:</strong> Full Stack Development & Machine Learning 🌱<br/>
   📊 <strong>Interests:</strong> Data Science | Natural Language Processing | Deep Learning 📊<br/>
   🚀 <strong>Exploring:</strong> Cloud Computing | Blockchain | UI/UX Design 🚀<br/>
